@@ -11,4 +11,4 @@ If everything is done properly, this should be the result
 ![BottomText](screenshot.png)
 ![TopText](screenshot2.png)
 
-<ins>All credit goes to [Nightmare Eclispe](https://deadeclipse666.blogspot.com/) and [churchofmalware](https://churchofmalware.org)</ins>
+_All credit goes to [Nightmare Eclispe](https://deadeclipse666.blogspot.com/) and [churchofmalware](https://churchofmalware.org)_
