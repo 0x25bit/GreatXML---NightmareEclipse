@@ -1,9 +1,4 @@
 # GreatXML
-
-
-
-
-# GreatXML
 ## Bitlocker bypass vulnerability
 
 ### Steps to reproduce 
